@@ -1,6 +1,6 @@
 {
   "name": "generator-restify-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Basic RESTful API framework powered by restify, npm scripts and foreman",
   "homepage": "https://github.com/Benj0s/generator-restify-api",
   "author": {

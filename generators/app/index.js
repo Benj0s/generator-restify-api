@@ -8,7 +8,7 @@ var yeoman = require('yeoman-generator');
 var chalk = require('chalk');
 var versions = [
   'master',
-  '1.0.1'
+  '1.0.2'
 ];
 var exec = function (cmd) {
   return new Promise(function (resolve, reject) {
